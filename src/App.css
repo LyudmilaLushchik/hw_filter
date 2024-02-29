@@ -1,0 +1,17 @@
+.toolbar {
+  display: flex;
+}
+
+.active {
+  background-color: #a8a8ac;  
+}
+
+.container {  
+  max-width: 1200px;
+  column-count: 3;
+}
+
+img {
+  width: 100%;
+  padding-bottom: 10px;
+}
